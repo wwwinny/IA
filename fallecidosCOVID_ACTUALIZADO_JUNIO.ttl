@@ -1,0 +1,83 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix bsbm: <http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dataFromRegion:1141
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "29518"^^xsd:Integer ;
+dataFromRegion:6369
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "71806"^^xsd:Integer ;
+dataFromRegion:1389
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "24046"^^xsd:Integer ;
+dataFromRegion:8304
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "94166"^^xsd:Integer ;
+dataFromRegion:1937
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "29994"^^xsd:Integer ;
+dataFromRegion:3850
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "60925"^^xsd:Integer ;
+dataFromRegion:9666
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "96596"^^xsd:Integer ;
+dataFromRegion:4361
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "65728"^^xsd:Integer ;
+dataFromRegion:1094
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "15087"^^xsd:Integer ;
+dataFromRegion:2552
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "33258"^^xsd:Integer ;
+dataFromRegion:7821
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "54139"^^xsd:Integer ;
+dataFromRegion:6540
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "76602"^^xsd:Integer ;
+dataFromRegion:9765
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "81381"^^xsd:Integer ;
+dataFromRegion:8050
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "56772"^^xsd:Integer ;
+dataFromRegion:78800
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "831743"^^xsd:Integer ;
+dataFromRegion:6892
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "67826"^^xsd:Integer ;
+dataFromRegion:4012
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "40751"^^xsd:Integer ;
+dataFromRegion:738
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "13448"^^xsd:Integer ;
+dataFromRegion:1367
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "25784"^^xsd:Integer ;
+dataFromRegion:964
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "14589"^^xsd:Integer ;
+dataFromRegion:11422
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "80812"^^xsd:Integer ;
+dataFromRegion:3581
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "34007"^^xsd:Integer ;
+dataFromRegion:2847
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "45266"^^xsd:Integer ;
+dataFromRegion:1804
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "26731"^^xsd:Integer ;
+dataFromRegion:1495
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "17194"^^xsd:Integer ;
+dataFromRegion:2996
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "31547"^^xsd:Integer ;
